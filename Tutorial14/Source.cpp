@@ -27,19 +27,26 @@ public:
 	}
 };
 
-int main() {/*
-	Object* obj = new Object;
-	obj->BeginPlay();
-
-	Actor* act = new Actor;
-	act->BeginPlay();*/
-
-	Pawn* pawn = new Pawn;
-	pawn->BeginPlay();
 
 
-	delete pawn;
-	//delete obj;/*
-	//delete act;*/
+
+int main() {
+	//Object* obj = new Object;
+	//obj->BeginPlay();
+
+	//Actor* act = new Actor;
+	//act->BeginPlay();
+
+	//Pawn* pawn = new Pawn;
+	//pawn->BeginPlay();
+
+
+	//delete pawn;
+	//delete obj;
+	//delete act;
+
+
+
+
 	system("pause");
 }
